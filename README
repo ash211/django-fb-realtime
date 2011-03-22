@@ -1,3 +1,11 @@
 The beginnings of a Django app for receiving Facebook's real-time updates
 
 https://developers.facebook.com/docs/api/realtime/
+
+
+Settings to put in django's settings.py:
+
+ - FACEBOOK_APP_ID
+ - FACEBOOK_API_KEY
+ - FACEBOOK_SECRET_KEY
+ - FACEBOOK_REALTIME_VERIFY_TOKEN
